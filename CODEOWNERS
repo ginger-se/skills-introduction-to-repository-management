@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ginger-se
+/src/backend/database.py      @ginger-se
+/src/backend/routers/auth.py  @ginger-se
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ginger-se
